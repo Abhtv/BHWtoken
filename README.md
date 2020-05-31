@@ -1,4 +1,4 @@
-# BlackHollywoodToken - BHW
+# BlackHollywoodToken - BHW (erc-20)
 Website: Atlblackhollywood.tv (aka #ABHTV platform)
 Description: Ethereum erc-20 utility token used to power the #ABHTV platform and mobile apps.
 Name: BlackHollywoodToken 
