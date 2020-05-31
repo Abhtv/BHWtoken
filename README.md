@@ -6,3 +6,4 @@ Symbol: BHW
 Contract: 0x708b6DAFeFE5Ff399558002F2E7DFdd52EACa6aA
 Etherscan.io url: https://etherscan.io/token/0x708b6DAFeFE5Ff399558002F2E7DFdd52EACa6aA
 Total Supply: 1,000,000,000 BHW
+Webapp wallet: https://www.togen.io/token/main/0x708b6dafefe5ff399558002f2e7dfdd52eaca6aa
